@@ -1,9 +1,9 @@
 <p align="center">
-  <img alt="Letmeask" src="./assets/img/software.jpeg" width="160px">
+  <img alt="Letmeask" src="./assets/img/logo.svg" width="160px">
 </p>
 
 <h1 align="center">
-    <img alt="Letmeask" src="./assets/img/README.png" />
+    <img alt="Letmeask" src="./assets/img/software.jpeg" />
 </h1>
 
 ## ⚛ Tecnologias
