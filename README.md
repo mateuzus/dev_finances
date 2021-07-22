@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-    <img alt="Letmeask" src="./assets/img/software.jpg" />
+    <img alt="Letmeask" src="./assets/img/readme.jpg" />
 </h1>
 
 ## ⚛ Tecnologias
